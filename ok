@@ -37,14 +37,14 @@ local tableinsert = table.insert
 getgenv().Aiming = {
     Enabled = true,
 
-    ShowFOV = false,
+    ShowFOV = true,
     FOV = 17,
-    FOVSides = 20,
+    FOVSides = 10,
     FOVColour = Color3fromRGB(231, 84, 128),
 
     VisibleCheck = true,
     
-    HitChance = 500,
+    HitChance = 100,
 
     Selected = nil,
     SelectedPart = nil,
