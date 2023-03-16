@@ -20,7 +20,7 @@ getgenv().farzadowouwu = {
     --- FOV ---
     FOV = {
         Show = false,
-        Size = 25,
+        Size = 15,
         Sides = 300,
     },
     ------------
@@ -30,7 +30,7 @@ getgenv().farzadowouwu = {
 
 ------- ( for games that are not da hood related ) -----Sw--
     Extra = {
-        AimPart = {"Head","UpperTorso","HumanoidRootPart","LowerTorso","LeftHand","RightHand","LeftLowerArm","RightLowerArm","LeftUpperArm","RightUpperArm","LeftFoot","LeftLowerLeg","LeftUpperLeg","RightLowerLeg","RightFoot","RightUpperLeg"},
+        AimPart = {"Head","HumanoidRootPart","LowerTorso","LeftHand","RightHand","LeftLowerArm","RightLowerArm","LeftUpperArm","RightUpperArm","LeftFoot","LeftLowerLeg","LeftUpperLeg","RightLowerLeg","RightFoot","RightUpperLeg"},
  -- // "all" or whatever you wantw
         Teams = "false", -- // disable this if the game or the game mode is free for all
     }
