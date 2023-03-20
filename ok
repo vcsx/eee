@@ -30,7 +30,7 @@ getgenv().farzadowouwu = {
 
 ------- ( for games that are not da hood related ) -------
     Extra = {
-        AimPart = "NearestCursorAimpart", -- // "all" or whatever you want
+        AimPart = "HumanoidRootPart", -- // "all" or whatever you want
         Teams = "false", -- // disable this if the game or the game mode is free for all
     }
 }
